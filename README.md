@@ -1,4 +1,4 @@
-These All the CoreJava chapters, step by step problem and coding solutions.
+These All the CoreJava topics, step by step problems and coding solutions.
 Day1- Introduction to Java
 Day2- Datatypes
 Day3- Operators
