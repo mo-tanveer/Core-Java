@@ -13,7 +13,7 @@ public class SecondActivity
       }
 
 
-   else if (a>=45 && a<=59)
+   else if (a>=44 && a<=59)
       {
          System.out.println("Second Division");
       }
