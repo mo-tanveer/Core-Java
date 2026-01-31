@@ -6,5 +6,6 @@ Day 4 --> About Operators
 Day 5 --> About Decision making Statement : If else if  
 Day 6 --> continue day 5 topic  
 Day 7 -->Java Program of Factorial,Prime Number,Fibonacci and Palindrome  
-Day 8 -->About Loop
+Day 8 -->About Loop  
 Day 9 -->Object and its properties started from this folder
+
