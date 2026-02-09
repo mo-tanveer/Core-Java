@@ -9,5 +9,7 @@ Day 7 -->Java Program of Factorial,Prime Number,Fibonacci and Palindrome
 Day 8 -->About Loop  
 Day 9 -->Object and its properties started from this folder  
 Day 10 --> Types of Constructor and some example of object and class  
-Day 11 --> Programiing Question Factorial,PrimeNumber
+Day 11 --> Programiing Question Factorial,PrimeNumber  
+Day 12 --> Armstrong Number,Fibonacci,Palindrome,Niven Programs  
+Day 13 --> Properties of Object-> Abstraction,Encapsulateion & Inheritance
 
