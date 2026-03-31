@@ -20,5 +20,8 @@ Day 18 --> Scopes continued
 Day 19 --> Exception Handling start here and explained everything about handling  
 Day 20 --> Exception Handling continued  
 Day 21 --> Exception Handling continued  
+Day 22 --> Abstract class- > calulate Area using abstract method  
+Day 23 --> Interface -> default method and static method , also niven no. program using abstract method  
+Day 24 --> Program of Bubble sort and Anagram and calculateArea and calculateVolume using interface
 
 
